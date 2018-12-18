@@ -12,8 +12,7 @@
 
     if (div) {
       const targetY = div.offsetTop
-      const currentY =
-        document.documentElement.scrollTop || document.body.scrollTop
+      const currentY = document.documentElement.scrollTop || document.body.scrollTop
 
       this.scrollAnimation(currentY, targetY)
     }
