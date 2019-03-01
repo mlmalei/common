@@ -60,3 +60,10 @@
 }
 
 ```
+
+### Lighthouse 审查网络应用
+``` javascript
+  npm install -g lighthouse
+  // 针对一个页面运行 Lighthouse 审查
+  lighthouse https://airhorner.com/
+```
