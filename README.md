@@ -11,7 +11,6 @@
 - [NodeJs](https://github.com/nodejs/node)
 - [Yarn](https://github.com/yarnpkg/yarn)
 - [ShadowSocksX-NG(科学上网VPN)](https://github.com/shadowsocks/ShadowsocksX-NG)
-- [TunnelBlick(内部VPN)](https://tunnelblick.net/)
 - [企业微信/Foxmail(工作邮箱)](https://work.weixin.qq.com/)
 - [VSCode(TS友好)](https://github.com/mlmalei/common/blob/master/%E5%B7%A5%E5%85%B7%E7%B1%BB/vscode.md)
 >`下为推荐，可不装`
